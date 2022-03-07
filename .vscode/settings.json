@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "__tuple": "cpp",
+        "bit": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp"
+    }
+}
